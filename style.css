@@ -23,13 +23,6 @@ body {
 }
 
 
-.nav-item {
-
-  /* background-color: rgb(207, 199, 199); */
-  /* padding-right: 20%; */
-
-}
-
 a.navbar-brand {
   padding-left: 10%;
   margin-top: 1%;
@@ -37,7 +30,7 @@ a.navbar-brand {
 }
 #home{
   margin-bottom: 5%;
-  margin-top: 2%;
+  margin-top: 3%;
 }
 
 .container .row .col {
@@ -84,7 +77,7 @@ a.navbar-brand {
 }
 
 .container .row .col img {
-  height: 320px;
+  height: 380px;
   width: 600px;
   margin-left: 60px;
   border-radius: 15%;
@@ -187,7 +180,7 @@ a.navbar-brand {
 /* registration form */
 
 #logIn{
-  padding-top: 5%;
+  padding-top: 6%;
 }
  .signup-box {
   width: 360px;
